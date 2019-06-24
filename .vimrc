@@ -1,0 +1,12 @@
+set nu
+set ruler
+set tabstop=4
+set shiftwidth=4
+set autoindent
+set smartindent
+set hlsearch
+set incsearch
+set expandtab
+set backspace=indent,eol,start
+set nocompatible
+set noexpandtab
